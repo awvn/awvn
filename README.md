@@ -34,19 +34,19 @@ Profissional com sólida experiência em gestão de dados e infraestruturas de T
 * **Problema de Negócio:** Prever a quantidade de pedidos de táxi para a próxima hora nos aeroportos, otimizando a alocação de motoristas nos horários de pico.
 * **Solução:** Reamostragem de séries temporais, criação de atributos de calendário e médias móveis, e avaliação comparativa entre Linear Regression, Random Forest, Gradient Boosting e LightGBM.
 * **Foco Técnico:** Validação temporal e minimização do erro quadrático médio (RMSE).
-* 🔗 [Ver Código e Documentação](https://github.com/awvn/demanda-taxi)
+* 🔗 [Ver Código e Documentação](https://github.com/awvn/prev-demanda-taxi)
 
 #### 3. 👁️ Estimativa de Idade por Visão Computacional
 * **Problema de Negócio:** Automatizar a verificação de faixa etária a partir de imagens faciais.
 * **Solução:** Aplicação de *Transfer Learning* com a arquitetura **ResNet50** pré-treinada, utilizando ajuste fino (*fine-tuning*) em Python.
 * **Foco Técnico:** Treino em GPU e otimização para redução do Erro Médio Absoluto (MAE).
-* 🔗 [Ver Código e Documentação](https://github.com/awvn/estimativa-idade-vis_comput)
+* 🔗 [Ver Código e Documentação](https://github.com/awvn/est-idade-vis_computacional)
 
 #### 4. 💬 Análise de Sentimentos e Classificação de Textos (NLP)
 * **Problema de Negócio:** Classificar automaticamente críticas e avaliações de utilizadores para identificar padrões de satisfação.
 * **Solução:** Pré-processamento de texto, vetorização com `TfidfVectorizer` e experimentação com modelos baseados em Transformers (BERT).
 * **Foco Técnico:** Processamento de linguagem natural e classificação binária de alta precisão.
-* 🔗 [Ver Código e Documentação](https://github.com/awvn/analise-sentimentos_filme)
+* 🔗 [Ver Código e Documentação](https://github.com/awvn/analise-sentimentos_NLP)
 
 ---
 
