@@ -51,7 +51,3 @@ Profissional com sólida experiência em gestão de dados e infraestruturas de T
 ---
 
 ### 📈 Estatísticas no GitHub
-
-<p align="left">
-  <img src="(https://ghstats.dev)" alt="Estatísticas do GitHub" />
-</p>
