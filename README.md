@@ -53,6 +53,5 @@ Profissional com sólida experiência em gestão de dados e infraestruturas de T
 ### 📈 Estatísticas no GitHub
 
 <p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" />
+  <img src="(https://ghstats.dev)" alt="Estatísticas do GitHub" />
 </p>
