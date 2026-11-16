@@ -1,3 +1,4 @@
+
 # Olá, eu sou o André W V Neto 👋
 
 ### Cientista de Dados | Arquitetura de Dados • Machine Learning • Automatização de tarefas • Linux • Open Source apps
