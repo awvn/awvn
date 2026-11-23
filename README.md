@@ -18,7 +18,10 @@ Profissional com sólida experiência em gestão de dados e infraestruturas de T
 * **Machine Learning & IA:** Scikit-Learn, LightGBM, XGBoost, CatBoost, TensorFlow / Keras, TF-IDF / BERT
 * **Visualização & Relatórios:** Plotly, Matplotlib, Seaborn, Dashboards Interativos (HTML)
 * **Sistemas & Infraestrutura:** Linux / Unix, Git, GitHub, Google Colab, Jupyter Notebook
-
+* **Preparação de Séries Temporais:** Estruturação de dados sequenciais, tratamento de falhas de leitura, redução de ruído (`scipy.signal`) e engenharia de atributos temporais (*lags* e médias móveis) aplicados na previsão de tendências do preço do barril de petróleo e na análise de curvas de produção.
+* **Avaliação e Tratamento de Desbalanceamento:** Diagnóstico de distribuição de classes, técnicas de balanceamento e uso de métricas orientadas ao negócio (**F1-Score**, Precisão e Recall) para evitar viés em classificações de litologia de poços e deteção de eventos raros.
+* **Análise Petrofísica & Dados de E&P:** Leitura e processamento de perfis de poços (`.las` / `.dlis` com `dlisio`), análise de dados ausentes (`missingno`) e visualização interativa (`plotly.express`).
+* **Bancos de Dados & Automação:** Extração e estruturação de dados com **SQL** e desenvolvimento de scripts em **Python** para automação de KPIs e controlo operacional.
 ---
 
 ### 📊 Projetos em Destaque
